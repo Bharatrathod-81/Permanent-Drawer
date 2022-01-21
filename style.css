@@ -10,7 +10,7 @@ body{
     display: grid;
     grid-template-columns: 25% 1fr;
     text-align: center;
-    width: 85%;
+    width: 100%;
     height: 40vh;
 }
 .child1{
